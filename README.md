@@ -22,6 +22,6 @@
 
 ## GitHub Stats
 
-[![CcRLyv's GitHub stats](https://github-readme-stats.vercel.app/api?username=CcRLyv&show_icons=true&theme=radical)](https://github.com/CcRLyv/github-readme-stats)
+[![CcRLyv's GitHub stats](https://github-readme-stats.vercel.app/api?username=CcRLyv&show_icons=true&theme=radical&count_private=true)](https://github.com/CcRLyv/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CcRLyv&layout=compact&show_icons=true&theme=radical)](https://github.com/CcRLyv/github-readme-stats)
