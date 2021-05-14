@@ -1,11 +1,12 @@
-### Hi there 👋
+# Hi there 👋
 ## My name is Guadalupe de Jesús Leyva 
  
- - 🤔 I am a self-taught, enterprising, responsible and leading person. I like to work in a team and under pressure. I enjoy programming for any platform and testing software.
- - 🌱 I’m currently learning Cloud Service, AI and Mobile Develop.
- - 👯 I’m looking to collaborate on Facebook or Google.
- - 😄 Pronouns: "Chucho", "Vyl" or "Lyv".
+ - 🤔 I am a _self-taught_, _enterprising_, _responsible_ and _leading_ person. I like to work in a team and under pressure. I **enjoy programming** for any platform and testing software.
+ - 🌱 I’m currently learning **Cloud Service**, **AI** and **Mobile Develop**.
+ - 👯 I’m looking to collaborate on **Facebook**, **Google** or **Microsoft**.
+ - 😄 Pronouns: "**Chucho**", "**Vyl**" or "**Lyv**".
  - ⚡ Fun fact: I'm beatboxer 🎤 for 6 years.
+ - 🤔 I'm interesting in learn Business Managment.
 
 ## Programming Languages
 <img src="https://i.pinimg.com/originals/5d/08/78/5d087850e740fc8f6fd767d121c28a58.png" width="50px"/> <img src="https://freevectorlogo.net/wp-content/uploads/2013/03/java-eps-vector-logo-400x400.png" width="50px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/1200px-VB.NET_Logo.svg.png" width="50px"/> <img src="https://hackr.io/tutorials/assembly-language/logo-assembly-language.svg?ver=1603208610" width="50px" /> <img src="https://muchoruidoypocasluces.com/forsale/img/logo-php.png" width="50px" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" width="50px" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" width="50px" /> 
